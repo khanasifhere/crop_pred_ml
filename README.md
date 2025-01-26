@@ -39,7 +39,7 @@ This repository contains a machine learning-based solution for crop prediction. 
 3. Follow the on-screen instructions to input environmental factors and receive crop recommendations.
 
 ## Project Structure
-- **`data/`**: Contains datasets used for training and testing.
+- **`data/`**: Contains datasets used for training and testing
 - **`models/`**: Includes saved machine learning models.
 - **`notebooks/`**: Jupyter notebooks for exploratory data analysis (EDA) and experimentation.
 - **`main.py`**: Entry point for running the application.
@@ -68,11 +68,11 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 5. Open a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Asif](LICENSE).
 
 ## Acknowledgments
 - Inspired by agricultural applications of machine learning.
 - Special thanks to open-source contributors and the data providers.
 
 ## Contact
-For any queries or feedback, please contact the repository owner at [your-email@example.com].
+For any queries or feedback, please contact the repository owner at [khanaasif1065@gmail.com].
